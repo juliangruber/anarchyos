@@ -1,6 +1,9 @@
 # AnarchyOS
 
 ![anarchy os!](static/images/anarchyos.png)
+intial artwork from [substack](https://github.com/substack).
+
+## what
 
 > [14:44:08] <@werle>	 what are you guys building?
 
@@ -10,6 +13,12 @@
 
 > [14:47:24] <@juliangruber>	 modules == libraries or applications
 
+## where
+
 * [Wiki](https://github.com/juliangruber/anarchyos/wiki)
 * [Discussions](https://github.com/juliangruber/anarchyos/issues)
 * Chat: #anarchyos on freenode
+
+## License
+
+MIT
