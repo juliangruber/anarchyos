@@ -19,6 +19,11 @@ intial artwork from [substack](https://github.com/substack).
 * [Discussions](https://github.com/juliangruber/anarchyos/issues)
 * Chat: #anarchyos on freenode
 
+## Resources
+
+* [Modules: Providing a Flexible
+User Environment](http://modules.sourceforge.net/docs/Modules-Paper.pdf)
+
 ## License
 
 MIT
