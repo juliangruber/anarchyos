@@ -36,6 +36,8 @@ $ make setup
 $ make ssh
 ```
 
+The password is `vagrant`.
+
 ## License
 
 MIT
