@@ -24,6 +24,18 @@ intial artwork from [substack](https://github.com/substack).
 * [Modules: Providing a Flexible
 User Environment](http://modules.sourceforge.net/docs/Modules-Paper.pdf)
 
+## VM
+
+Development takes place inside a [vagrant](http://www.vagrantup.com) vm.
+
+To set up:
+
+```bash
+$ make init
+$ make setup
+$ make ssh
+```
+
 ## License
 
 MIT
