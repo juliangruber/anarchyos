@@ -1,6 +1,6 @@
 
 Vagrant.configure('2') do |config|
-  config.vm.box = 'raring64'
+  config.vm.box = 'anarchyos'
   config.vm.network :private_network, ip: "192.168.10.2"
 
   # vm settings

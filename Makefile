@@ -1,6 +1,6 @@
 
 init:
-	vagrant box add raring64 https://dl.dropboxusercontent.com/u/547671/thinkstack-raring64.box
+	vagrant box add anarchyos https://dl.dropboxusercontent.com/u/547671/thinkstack-raring64.box
 	$(MAKE) setup
 
 setup:
